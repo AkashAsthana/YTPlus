@@ -11,4 +11,3 @@ making it an application both suitable for fun and studies :)
 ## Libraries and Dependencies
 *Flask
 *Spacy
-*
