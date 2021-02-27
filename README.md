@@ -9,5 +9,5 @@ making it an application both suitable for fun and studies :)
 `Flask`
 `Machine Learning`
 ## Libraries and Dependencies
-*Flask
-*Spacy
+- Flask
+- Spacy
