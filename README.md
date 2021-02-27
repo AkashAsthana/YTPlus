@@ -8,3 +8,7 @@ making it an application both suitable for fun and studies :)
 `MERN`
 `Flask`
 `Machine Learning`
+## Libraries and Dependencies
+*Flask
+*Spacy
+*
