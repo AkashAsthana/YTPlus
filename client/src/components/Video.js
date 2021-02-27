@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import Video from './components/Video'
+import YouTube from './YouTube'
 
 
 function App() {
@@ -8,8 +8,7 @@ function App() {
         <div className="App">
             <Grid item>
                 <Grid item container xs={12}>
-                    <Video
-                    />
+                    <YouTube />
                 </Grid>
                 <Grid item container xs={12}>
 
