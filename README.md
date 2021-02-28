@@ -20,6 +20,6 @@ making it an application both suitable for fun and studies :)
 - Spacy
 - json
 ## Steps to access the hack
-Access our hack YTPlus [here](https://ytplus-wolframgamma.herokuapp.com/)
-The summarizing API is deployed [here](https://api-summary.herokuapp.com/)
-The captioning API is deployed [here](http://captionapi.herokuapp.com/)
+- Access our hack YTPlus [here](https://ytplus-wolframgamma.herokuapp.com/)
+- The summarizing API is deployed [here](https://api-summary.herokuapp.com/)
+- The captioning API is deployed [here](http://captionapi.herokuapp.com/)
