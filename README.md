@@ -19,3 +19,5 @@ making it an application both suitable for fun and studies :)
 - youtube_transcript_api
 - Spacy
 - json
+## Steps to access the hack
+[https://ytplus-wolframgamma.herokuapp.com/](YTplus)
