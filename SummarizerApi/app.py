@@ -4,6 +4,7 @@ import spacy
 from spacy.lang.en.stop_words import STOP_WORDS
 import string
 import json
+from flask_cors import CORS
 
 def model(text):
     extra_words = list(STOP_WORDS) + list(string.punctuation) + ['\n']
@@ -51,9 +52,9 @@ def model(text):
 
 
 app = flask.Flask(__name__)
-
+CORS(app)
 @app.route('/',methods=['POST'])
 def home():
-    request_data = request.get_json()
+    request_data = request.get_json(force=True)
     text = str(request_data['text'])
     return model(text)
