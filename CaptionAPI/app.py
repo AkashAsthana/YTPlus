@@ -2,8 +2,10 @@ import flask
 import json
 from flask import request
 from youtube_transcript_api import YouTubeTranscriptApi
+from flask_cors import CORS
 
 app = flask.Flask(__name__)
+CORS(app)
 @app.route('/', methods=['GET'])
 def home():
     video_id = request.args['video_id']
@@ -37,3 +39,5 @@ def home():
         else:
             json_out = json.dumps(unique_time)
             return json_out
+
+#Coded By Aaradhya Dixit
