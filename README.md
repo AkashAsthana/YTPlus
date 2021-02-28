@@ -20,4 +20,4 @@ making it an application both suitable for fun and studies :)
 - Spacy
 - json
 ## Steps to access the hack
-[https://ytplus-wolframgamma.herokuapp.com/](YTplus)
+Access our hack YTPlus[here](https://ytplus-wolframgamma.herokuapp.com/)
