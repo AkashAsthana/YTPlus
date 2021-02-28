@@ -11,6 +11,11 @@ making it an application both suitable for fun and studies :)
 ## Libraries and Dependencies
 - Flask
 - flask_cors
+- socket.io
+- express
+- react
+- react-player
+- material-ui
 - youtube_transcript_api
 - Spacy
 - json
