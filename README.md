@@ -10,6 +10,7 @@ making it an application both suitable for fun and studies :)
 `Machine Learning`
 ## Libraries and Dependencies
 - Flask
-- Spacy
-- JSON
+- flask_cors
 - youtube_transcript_api
+- Spacy
+- json
